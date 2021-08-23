@@ -1,4 +1,4 @@
-<img src = "https://cdn.discordapp.com/attachments/797697618334580769/879193246977368094/7e0bcff70452c2eca7f1250938b226c3_w200.gif" width="225px" align = "right">
+<img src = "https://cdn.discordapp.com/attachments/797697618334580769/879193246977368094/7e0bcff70452c2eca7f1250938b226c3_w200.gif" width="200px" align = "right">
 
 ### Hi there, I'm Yuri Eloi 👩‍💻
 
