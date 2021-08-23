@@ -1,6 +1,6 @@
 <img src = ".github/wonderwoman.png" width = "325px" align = "right">
-
 ### Hi there, I'm Yuri Eloi 👩‍💻
+
 
 🔭 **Currently work:** ERP for companies;
 
