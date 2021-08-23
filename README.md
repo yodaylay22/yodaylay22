@@ -1,26 +1,22 @@
 <img src = ".github/wonderwoman.png" width = "325px" align = "right">
 
-### Hi there, I'm Ricarth Lima 👩‍💻
+### Hi there, I'm Yuri Eloi 👩‍💻
 
-🔭 **Currently work:** Computer Education for Children;
+🔭 **Currently work:** ERP for companies;
 
-:man_student: **Studying:** Information Systems at [CIn UFPE](https://portal.cin.ufpe.br/);
+:man_student: **Studying:** Systems Analysis and Development at [Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/);
 
-🌱 **Learning:** Flutter, Unity, Rails;
+🌱 **Learning:** Laravel, Vue;
 
 :school_satchel: **Main Tools:** Visual Studio Code and GitHub;
 
-:raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/ricarthlima/) and [YouTube](https://www.youtube.com/channel/UCzQIC5Emb1scaYgpJKjktaQ);
-
-⚡ **Fun fact:** I love Wonder Woman;
-
 ---
 
-<a href="https://github.com/ricarthlima/ricarthlima">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ricarthlima" />
+<a href="https://github.com/yodaylay22/yodaylay22">
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yodaylay22&include_all_commits=true&count_private=true" />
 </a>
 
-<a href="https://github.com/ricarthlima/ricarthlima">
-  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=ricarthlima&show_icons=true" />
+<a href="https://github.com/yodaylay22/yodaylay22">
+  <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=yodaylay22&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 
