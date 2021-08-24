@@ -2,13 +2,13 @@
 
 ### Hi there, I'm Yuri Eloi 👩‍💻
 
-🔭 **Currently work:** ERP for companies;
+🔭 **Currently work:** ERP for companies
 
-:man_student: **Studying:** Systems Analysis and Development at [Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/);
+:man_student: **Studying:** Systems Analysis and Development at [Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/)
 
-🌱 **Learning:** Laravel, Vue;
+🌱 **Learning:** Laravel and Vue
 
-:school_satchel: **Main Tools:** Visual Studio Code and GitHub;
+:school_satchel: **Main Tools:** Visual Studio Code and GitHub
 
 <br>
 
