@@ -42,3 +42,7 @@
   <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=yodaylay22&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 </div>
+
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yodaylay22&theme=discord&margin-w=15&no-frame=true&column=7" alt="yodaylay22" /></a> </p>
