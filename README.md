@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Yuri Eloi 👩‍💻
 
-🔭 **Currently work:** ERP for companies
+🔭 **Currently working on:** ERP for companies
 
 :man_student: **Studying:** Systems Analysis and Development at [Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/)
 
