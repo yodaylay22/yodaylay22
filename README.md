@@ -6,7 +6,7 @@
 
 :man_student: **Studying:** Systems Analysis and Development at [Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/)
 
-🌱 **Learning:** Laravel and Vue
+🌱 **Learning:** AlpineJs
 
 :school_satchel: **Main Tools:** Visual Studio Code and GitHub
 
