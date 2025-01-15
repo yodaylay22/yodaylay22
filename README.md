@@ -21,7 +21,9 @@
   <img align="center" alt="Yuri-Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
   <img align="center" alt="Yuri-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Yuri-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+   <img align="center" alt="Yuri-AlpineJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/alpinejs/alpinejs-original.svg">
   <img align="center" alt="Yuri-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Yuri-Livewire" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/livewire/livewire-original.svg">
   <img align="center" alt="Yuri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yuri-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
   <img align="center" alt="Yuri-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg">
